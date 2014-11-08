@@ -16,7 +16,7 @@ Compatible-Versions:
 Cartridge-Vendor: dangtanxp
 License: GPL
 Vendor: MariaDB Foundation
-Source-Url: https://github.com/dangtanxp/mariadb-cartridge.git
+Source-Url: https://github.com/dangtanxp/cartridge-mariadb.git
 Categories:
 - service
 - database
